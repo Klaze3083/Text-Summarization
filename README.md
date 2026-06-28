@@ -26,7 +26,7 @@ This project focuses on implementing text summarization using Natural Language P
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/TilakSanghvi/Text_Summarization.git
+    git clone https://github.com/Klaze3083/Text-Summarization
     ```
 2. Navigate to the project directory:
     ```bash
