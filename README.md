@@ -43,18 +43,3 @@ This project focuses on implementing text summarization using Natural Language P
     jupyter notebook Text_Summarization_using_Transformers.ipynb
     ```
 2. Follow the instructions in the notebook to run the text summarization model.
-
-## Contributing
-Contributions are welcome! Please follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Create a new Pull Request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contact
-For any inquiries, please contact Tilak Sanghvi at [tilakcsanghvi@gmail.com](mailto:tilakcsanghvi@gmail.com).
-
